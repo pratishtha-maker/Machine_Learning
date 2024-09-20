@@ -4,6 +4,7 @@ Data.py file is to load data for both car and bank datasets
 ID3.py explains the ID3 algorithm and its implementation
 The features used are Information Gain (IG), Majority Error(ME) and Gini Index (GI)
 # How to run for car dataset 
+\\
 python3 ID3.py car ig 1
 python3 ID3.py car me 1
 python3 ID3.py car gi 1
