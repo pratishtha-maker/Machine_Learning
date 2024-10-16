@@ -8,7 +8,7 @@ python3 Ensemble_Learning.py ada
 python3 Ensemble_Learning.py bag
 
 ## Random Forest
-python3 Linear_Regression.py forest
+python3 Ensemble_Learning.py forest
 
 ## Result
 All the results are included in the homework PDF on canvas.
