@@ -13,4 +13,4 @@ python3 Linear_Regression.py sgd
 python3 Linear_Regression.py optimal
 
 # Result
-All the results are included in the homework PDF on canvas.
+All the results are included in the homework PDF on the canvas.
