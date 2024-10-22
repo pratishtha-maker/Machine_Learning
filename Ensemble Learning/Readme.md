@@ -11,4 +11,4 @@ python3 Ensemble_Learning.py bag
 python3 Ensemble_Learning.py forest
 
 ## Result
-All the results are included in the homework PDF on canvas.
+All the results are included in the homework PDF on the canvas.
