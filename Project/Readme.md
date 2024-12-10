@@ -11,5 +11,7 @@ MZI.ipynb
 
 Reck_method.ipynb
 
+Project.ipynb
+
 ## Results
-Results are included in the project report.
+Results are included in the Results folder and a project report is also uploaded on Github as well as Canvas.
